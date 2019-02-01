@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+tr, td, table {
+	border: red solid 1px;
+	border-collapse: collapse;
+	color: navy;
+	font-size: 20px;
+}
+
+img{
+	width: 70px;
+	height: 50px;
+}
